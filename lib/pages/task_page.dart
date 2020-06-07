@@ -16,7 +16,7 @@ final List<Task> _taskList = [
   Task('Fix on boarding experience', false),
   Task('Edit API documentation', false),
   Task('Set up user focus group.', false),
-  Task('Have coffee with Same', true),
+  Task('Have coffee with Sam', true),
   Task('Meet with Sales.', true),
 ];
 
